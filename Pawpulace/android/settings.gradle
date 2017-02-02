@@ -1,0 +1,3 @@
+rootProject.name = 'Pawpulace'
+
+include ':app'
